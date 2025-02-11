@@ -1,8 +1,6 @@
-<figure>
-    <img src="avatar.jpg"
-         alt="A portrait photo of my looking at a river in the summer">
-    <figcaption>Photo Credit: J Ehrler.</figcaption>
-</figure>
+<img src="" alt="">
+
+![A portrait photo of me wearing a hat](avatar-low.jpg)
 
 # Hey there 👋 I'm Barry.
 
