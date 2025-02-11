@@ -1,4 +1,8 @@
-**`#DesignOps` `#ProductDesign` `#ServiceDesign`**
+<figure>
+    <img src="avatar.jpg"
+         alt="A portrait photo of my looking at a river in the summer">
+    <figcaption>Photo Credit: J Ehrler.</figcaption>
+</figure>
 
 # Hey there 👋 I'm Barry.
 
@@ -10,3 +14,5 @@ I'm at my best collaborating with creative and thoughtful people to find solutio
 > I am **open** to collaborations.
 
 **[Let's Connect!](https://links.renderg.host/)**
+
+**`#DesignOps` `#ProductDesign` `#ServiceDesign`**
