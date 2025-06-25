@@ -2,7 +2,7 @@
 
 # Hey there 👋 I'm Barry. 
 
-**`#DesignOps` `#ProductDesign` `#ServiceDesign`**
+**`Design Strategy` `Product Design` `DesignOps`**
 
 > I help get better-designed products to market faster.
 
