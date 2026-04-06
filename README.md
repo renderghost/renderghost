@@ -12,4 +12,4 @@ I believe that great design comes from bold ideas, timely conversations with the
 
 My design approach balances strategic clarity with research and design excellence, while responding to the everchanging needs of an agile product team. I help teams to cut through distractions, to adapt when things don’t go to plan, and to stay focused on what matters most—to the teams and their customers alike.
 
-**[Say Hello!](https://links.renderg.host/)**
+**[Say Hello!](https://renderg.host/)**
