@@ -1,15 +1,22 @@
-![A portrait photo of me wearing a hat](avatar-low.jpg)
+![A portrait photo of me wearing a hat](https://renderg.host/art/portrait/art/colour.jpg)
 
-# Hey there 👋 I'm Barry. 
+# Hi! 👋 I'm Barry, an Irish UX strategist and designer based in Berlin, Germany.
 
 **`Design Strategy` `Product Design` `DesignOps`**
 
-> I help get better-designed products to market faster.
+> *Design is the process of going from an existing condition to a preferred one.*
+> — Milton Glaser
 
-I offer outcome-driven product design that cuts through complexity, mitigates risk and drives measurable growth for innovative B2B organisations.
+For 20 years, I've helped ambitious organisations ease their growing pains and solve complex problems through clear conversation, rapid prototyping, and rigorous testing against the right metrics.
 
-I believe that great design comes from bold ideas, timely conversations with the right people, rigorous testing against the right metrics in lean, iterative cycles. I try to tackle the hardest problems by listening closely, communicating clearly and collaborating openly by default.
+I help companies achieve focus, collaborate more effectively, and get to market faster. I have led teams and shipped products for early stage startups and multinationals working in academic publishing, artificial intelligence, data analytics, energy, government, pharma, and more. I specialise in _outcome-driven_ experience and interface design for digital products and services. I practise lean product management, user research, and UX design to build strategies, teams, and design systems that help organisations achieve their goals.
 
-My design approach balances strategic clarity with research and design excellence, while responding to the everchanging needs of an agile product team. I help teams to cut through distractions, to adapt when things don’t go to plan, and to stay focused on what matters most—to the teams and their customers alike.
+I also write about design, product, processes, systems, tech and the messy people stuff in between.
 
-**[Say Hello!](https://renderg.host/)**
+Let's work together to build the right things, in the right way, for your business and your users.
+
+We can talk on [Bluesky](https://bsky.app/profile/renderg.host), [LinkedIn](https://www.linkedin.com/in/barrymprendergast/), via [Mail](mailto:contact@renderg.host), or better yet, let's [have a call](https://calendly.com/barry-prendergast) to figure out the next steps.
+
+---
+
+**[View my Portfolio → ](https://renderg.host/)**
